@@ -6,6 +6,9 @@ cat > pets
 cat > pack_animals
 cat pets pack_animals > home_animals
 mv home_animals > human_friends
+
+mkdir new_dir
+mv human_friends new_dir
 ```
 ## Task №3
 ```
